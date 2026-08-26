@@ -6,6 +6,10 @@ Notes scroll down the four-digit seven-segment display — the board is mounted 
 
 ## Demo
 
+<a href="https://youtu.be/U4GZk6iaCmg">
+  <img src="docs/thumbnail.png" width="600" alt="Taiko Drum demo">
+</a>
+
 ## How to Play
 
 The game boots into a menu. From there:
@@ -33,11 +37,11 @@ Supporting hardware:
 
 ### Documentation
 
-![HLSM](docs/HLSM.png)
+<img src="docs/HLSM.png" width="600" alt="HLSM">
 
-![Datapath](docs/Datapath.png)
+<img src="docs/Datapath.png" width="600" alt="Datapath">
 
-![Transition Table](docs/Transistion_Table.png)
+<img src="docs/Transition_Table.png" width="600" alt="Transition table">
 
 ## Repository Layout
 
