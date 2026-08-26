@@ -7,7 +7,7 @@ Notes scroll down the four-digit seven-segment display — the board is mounted 
 ## Demo
 
 <a href="https://youtu.be/U4GZk6iaCmg">
-  <img src="docs/thumbnail.png" width="600" alt="Taiko Drum demo">
+  <img src="thumbnail.png" width="600" alt="Taiko Drum demo">
 </a>
 
 ## How to Play
