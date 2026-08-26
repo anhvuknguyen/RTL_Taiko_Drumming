@@ -12,8 +12,8 @@ The game boots into a menu. From there:
 
 | Button | Menu | In game |
 | --- | --- | --- |
-| **Right** | Enter speed menu | — |
-| **Left** | Toggle speed level (3 settings) | — |
+| **Right** | Enter speed menu | Right |
+| **Left** | Toggle speed level (3 settings) | Left |
 | **Up** | Start game | — |
 | **Center** | — | Pause / resume |
 | **Down** | Reset | Reset |
@@ -33,7 +33,7 @@ Supporting hardware:
 
 ### Documentation
 
-![HLSM](docs/hlsm.png)
+![HLSM](docs/HLSM.png)
 
 ![Datapath](docs/Datapath.png)
 
