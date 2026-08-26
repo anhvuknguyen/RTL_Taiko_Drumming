@@ -1,0 +1,22 @@
+# Vivado generated output
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.sdk/
+.Xil/
+
+# Logs and journals
+*.jou
+*.log
+*.str
+*.vdi
+*.vds
+
+# Backups
+*.backup.jou
+*.backup.log
+vivado_*.str
+vivado_*.zip
