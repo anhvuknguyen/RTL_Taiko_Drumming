@@ -33,6 +33,12 @@ Supporting hardware:
 
 ### Documentation
 
+![HLSM](docs/hlsm.png)
+
+![Datapath](docs/Datapath.png)
+
+![Transition Table](docs/Transistion_Table.png)
+
 ## Repository Layout
 
 ```
